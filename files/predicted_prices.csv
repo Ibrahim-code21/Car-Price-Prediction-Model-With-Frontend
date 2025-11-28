@@ -1,0 +1,4 @@
+Present_Price,Driven_kms,Owner,Car_Age,Fuel_Type_Diesel,Fuel_Type_Petrol,Selling_type_Individual,Transmission_Manual,Predicted_Price(LR),Predicted_Price(RF)
+12.5,45000,0,5,1,0,1,1,9.510713561611016,10.79315
+8.0,30000,0,3,0,1,0,0,9.414432156886967,6.024000000000001
+15.0,60000,1,7,1,0,1,1,8.879803636188042,12.47095000000001
